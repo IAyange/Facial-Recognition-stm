@@ -1,0 +1,31 @@
+2025-03-13 16:47:38,947 - face_recognition - INFO - Starting face capture for employee Ayange
+2025-03-13 16:48:22,295 - face_recognition - INFO - Successfully registered employee Ayange with ID 0
+2025-03-13 16:55:49,555 - face_recognition - INFO - Starting face capture for employee Ayange
+2025-03-13 16:55:55,750 - face_recognition - INFO - Successfully registered employee Ayange with ID 1
+2025-03-13 16:56:19,144 - face_recognition - ERROR - Model file not found
+2025-03-13 16:56:19,144 - face_recognition - ERROR - Model not trained and couldn't load a saved model
+2025-03-13 16:56:26,375 - face_recognition - ERROR - Model file not found
+2025-03-13 16:56:26,375 - face_recognition - ERROR - Model not trained and couldn't load a saved model
+2025-03-13 16:57:22,406 - face_recognition - INFO - Starting model training
+2025-03-13 16:57:23,377 - face_recognition - INFO - Model trained successfully with 20 face images
+2025-03-13 16:57:57,264 - face_recognition - INFO - Employee authenticated: Ayange (ID: 1) with confidence 21.9%
+2025-03-13 17:05:01,564 - face_recognition - INFO - Starting face capture for employee Maggie
+2025-03-13 17:05:06,845 - face_recognition - INFO - Successfully registered employee Maggie with ID 2
+2025-03-13 17:05:14,430 - face_recognition - INFO - Starting model training
+2025-03-13 17:05:15,454 - face_recognition - INFO - Model trained successfully with 40 face images
+2025-03-13 17:05:38,586 - face_recognition - INFO - Employee authenticated: Maggie (ID: 2) with confidence 54.4%
+2025-03-13 17:23:40,351 - face_recognition - INFO - Starting model training
+2025-03-13 17:23:42,779 - face_recognition - INFO - Model trained successfully with 60 face images
+2025-03-13 17:28:27,044 - face_recognition - INFO - Model loaded successfully
+2025-03-13 18:32:13,765 - face_recognition - INFO - Model loaded successfully
+2025-03-14 02:21:53,939 - face_recognition - INFO - Model loaded successfully
+2025-03-14 02:25:35,124 - face_recognition - INFO - Starting model training
+2025-03-14 02:25:39,210 - face_recognition - INFO - Model trained successfully with 60 face images
+2025-03-14 11:38:48,453 - face_recognition - INFO - Model loaded successfully
+2025-03-14 11:50:10,955 - face_recognition - INFO - Starting model training
+2025-03-14 11:50:15,397 - face_recognition - INFO - Model trained successfully with 60 face images
+2025-03-14 11:58:27,826 - face_recognition - INFO - Model loaded successfully
+2025-03-16 10:00:26,472 - face_recognition - INFO - Starting model training
+2025-03-16 10:00:30,023 - face_recognition - INFO - Model trained successfully with 60 face images
+2025-03-16 10:08:52,567 - face_recognition - INFO - Starting model training
+2025-03-16 10:08:53,879 - face_recognition - INFO - Model trained successfully with 60 face images
