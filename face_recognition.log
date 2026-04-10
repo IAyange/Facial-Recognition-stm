@@ -29,3 +29,16 @@
 2025-03-16 10:00:30,023 - face_recognition - INFO - Model trained successfully with 60 face images
 2025-03-16 10:08:52,567 - face_recognition - INFO - Starting model training
 2025-03-16 10:08:53,879 - face_recognition - INFO - Model trained successfully with 60 face images
+2026-04-10 13:16:45,458 - face_recognition - INFO - Model loaded successfully
+2026-04-10 13:17:04,985 - face_recognition - INFO - Employee authenticated: Ian Ayange (ID: 0) with confidence 26.0%
+2026-04-10 13:17:56,852 - face_recognition - INFO - Capturing initial face sample for duplication check
+2026-04-10 13:17:59,239 - face_recognition - INFO - Starting face capture for employee 2
+2026-04-10 13:18:07,156 - face_recognition - INFO - Starting model training
+2026-04-10 13:18:08,935 - face_recognition - INFO - Model trained successfully with 60 face images
+2026-04-10 13:18:08,935 - face_recognition - INFO - Successfully registered employee 2 with ID 1
+2026-04-10 13:25:49,113 - face_recognition - INFO - Model loaded successfully
+2026-04-10 13:32:55,547 - face_recognition - INFO - Starting model training
+2026-04-10 13:32:57,886 - face_recognition - INFO - Model trained successfully with 60 face images
+2026-04-10 13:46:04,424 - face_recognition - INFO - Starting model training
+2026-04-10 13:46:05,351 - face_recognition - INFO - Model trained successfully with 60 face images
+2026-04-10 14:47:25,363 - face_recognition - INFO - Model loaded successfully
